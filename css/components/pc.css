@@ -1,0 +1,15 @@
+@media (max-width: 1300px) { /* PC - For a screen < 1300px, this CSS will be read */
+	.container {
+		width: auto;
+	}
+	.navbarPlaceholder{
+		height:70px;
+	}
+	.cards {
+	  margin: 10px 100px;
+	}
+	.container h2 {
+	   padding: 10px;
+	   margin: 0px 100px;
+	}
+}

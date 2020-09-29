@@ -1,0 +1,15 @@
+@media (max-width: 600px) { /* MOBILE - For a screen < 600px, this CSS will be read */
+	.container {
+		width: 100%;
+	}
+	.navbarPlaceholder{
+		height:0px;
+	}
+	.cards {
+	  margin: 10px 0px;
+	}
+	.container h2 {
+	   padding: 10px;
+	   margin: 0px 10px;
+	}
+}

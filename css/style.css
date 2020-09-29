@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap'); /*toujours mettre la police avant le reste du css (soit au début du css soit dans le head du html*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap'); 
+
+@import "components/header.css";
+@import "components/banner.css";
+@import "components/card.css";
+@import "components/button.css";
+@import "components/pc.css";
+@import "components/tablet.css";
+@import "components/phone.css";
+
+Body {
+	font-family: 'Poppins', 'Roboto', Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	margin: 0px;
+}
+	
+a {
+	text-decoration: none;
+	color: #515f71;
+}
+
+.container {
+	margin: 20px 0px; 
+    color: #515f71;
+}	

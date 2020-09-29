@@ -1,0 +1,17 @@
+@media (max-width: 800px) {/* TABLETTE - For a screen < 800px, this CSS will be read */
+	.container {
+		width: 700px;
+	}
+	.navbarPlaceholder{
+		height:0px;
+	}
+	.cards {
+	  margin: 10px 0px;
+	}
+	.container h2 {
+	   padding: 10px;
+	   margin: 0px 10px;
+	}
+}
+
+
